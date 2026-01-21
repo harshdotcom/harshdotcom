@@ -34,7 +34,7 @@ My work sits at the intersection of **high-performance backend engineering and e
 - 🌐 Built enterprise frontends using **Angular + TypeScript**
 - 🧠 Actively improving problem-solving on **LeetCode**
 
-🎓 **Bachelor’s in Computer Science — [Add your college name here]**
+🎓 **Bachelor’s in Computer Science — IIT INDORE**
 
 📌 **Core Expertise:**  
 - **Go**  
