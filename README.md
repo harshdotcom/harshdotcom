@@ -112,9 +112,9 @@ Built a Go-based microservices platform handling [X] requests/sec, improving API
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshdotcom" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40" style="filter: invert(1);" /></a>
-  <a href="mailto:harshptct@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" style="filter: invert(1);" /></a>
-  <a href="https://x.com/jhaharsh03" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" width="40" style="filter: invert(1);" /></a>
-  <a href="https://hashnode.com/@harshdotcom" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hashnode.svg" height="30" width="40" style="filter: invert(1);" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshdotcom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshptct@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/jhaharsh03" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://hashnode.com/@harshdotcom" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
