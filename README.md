@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshdotcom&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://www.linkedin.com/in/harshdotcom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshjha-iiti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harshptct@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -113,7 +113,7 @@ Built a Go-based microservices platform handling [X] requests/sec, improving API
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshdotcom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshjha-iiti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harshptct@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/jhaharsh03" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://hashnode.com/@harshdotcom" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
