@@ -70,19 +70,21 @@ I design AI systems the way I design backend systems — modular, observable, an
 
 ## 🚀 Featured Projects
 
-> Replace the entries below with your real projects — specific names, stacks, and outcomes are what make this section credible to recruiters.
+### VitalTrack.ai — AI-Powered Digital Health Journal
+Architected an AI-powered digital health journal that extracts structured insights from medical reports using AWS Textract and Bedrock, built on a scalable cloud-native stack.
+`Go` · `Angular` · `AWS Bedrock` · `AWS Textract` · `PostgreSQL`
 
-### [Project Name] — AI-Powered [Product Type]
-Architected and led development of an LLM-powered [product type] used by [X] users/teams, integrating RAG over [data source] to reduce [manual process] by **[X]%**.
-`Go` · `LangChain` · `Vector DB` · `React`
+### LetAITalk — AI Conversation Platform
+Built a next-generation AI conversation platform unifying voice and chat into a single seamless experience, using NLP and text-to-speech to automate real-time, human-like communication at scale.
+`Go` · `Docker` · `Microservices` · `WebSockets` · `NLP` · `Text-to-Speech`
 
-### [Project Name] — Multi-Agent Workflow Automation
-Designed a multi-agent system using [LangGraph/MCP] to automate [business process], cutting turnaround time from [X hours] to [X minutes].
-`Python` · `LangGraph` · `Anthropic Claude API`
+### naukriAuto.Ai — AI-Driven Job Search Automation
+Developed a Python-based AI automation tool that streamlines repetitive job-search and application workflows on the Naukri job portal.
+`Python` · `AI` · `Automation`
 
-### [Project Name] — High-Concurrency Backend Platform
-Built a Go-based microservices platform handling [X] requests/sec, improving API latency by **[X]%** through worker-pool based concurrent processing.
-`Go` · `MySQL` · `Docker` · `Kubernetes`
+### Production RAG Systems @ Simplyphi
+Designed and delivered **4–5 production Retrieval-Augmented Generation (RAG) systems** at Simplyphi, integrating LLMs with internal knowledge bases, documents, and third-party APIs to automate research, support, and knowledge-retrieval workflows for business stakeholders.
+`RAG` · `LLMs` · `Vector Databases` · `LangChain` · `Go` · `Microservices`
 
 ---
 
